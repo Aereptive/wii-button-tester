@@ -4,7 +4,7 @@ An open-source, lightweight utility built for the Nintendo Wii to test and verif
 
 ## 🚀 Features
 * **Real-time feedback**: Instantly see button states toggle between active (green) and idle (grey).
-* **Multi-controller support**: Built using `libogc` to track Wii Remotes, Nunchuks, and Classic Controllers.
+* **Wii Remote support**: Built using libogc to track all face buttons and directional pad inputs.
 * **Open-source framework**: Clean, modular C++ code designed as a template for other homebrew developers.
 
 ## 🛠️ How to Install on Your Wii
